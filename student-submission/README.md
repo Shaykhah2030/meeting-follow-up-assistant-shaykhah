@@ -1,5 +1,9 @@
 # My Final Project
-
+- **Student Name:** Shaykhah Altamimi
+  
+## Course / Program Resource:
+- **Academy Repository:** [SDAIA Academy GitHub](https://github.com/SDAIAAcademy)
+  
 ## Project Name
 Meeting Follow-up Assistant (meeting-follow-up-assistant-shaykhah)
 
